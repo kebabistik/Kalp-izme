@@ -1,2 +1,2 @@
 # Kalp-izme
-Bize içi dolu bir kalp çiziyor cmd üzerinden.
+Pyhton ile Bize içi dolu bir kalp çiziyor cmd üzerinden.
